@@ -1,14 +1,14 @@
-### Un forastero!! avisad a los demás, te cogí, te cógí.
+### Un forastero!! avisad a los demás, te cogí, te cógí. <img align="center" alt="GIF" src="https://i.imgur.com/SG1BLWQ.gif" width="200" height="80" />
 ### REDME EM CONSTRUÇÃO 🚧👷‍♂️
 
 # Olá, me chamo Rogério 👋
 
 Sou apaixonado por T.I desde que quebrei uma senha do Windows que me impedia de jogar resident evil 4 [#HackerMan!!]() 🤣
 
-Desde então venho aprendendo todos os dias o que a tecnologia pode oferecer, sou apaixonado por criar coisas e inovar, computação em nuvem, algoritmos e muito código. Tenho um pouquinho dos meus humildes projetos por aqui, sinta-se a vontade para conhecer e ficarei grato por qualquer dica :) 
+Desde então venho aprendendo todos os dias o que a tecnologia pode oferecer, sou apaixonado por criar coisas e inovar, computação em nuvem, algoritmos e muito código. Tenho um pouquinho dos meus humildes projetos por aqui, sinta-se a vontade para conhecer e ficarei grato por qualquer dica :)
 
 ---
-## Um pouquinho do que sei 👽
+## Tecnologias favoritas 👽
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,3 +21,5 @@ Desde então venho aprendendo todos os dias o que a tecnologia pode oferecer, so
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br />
