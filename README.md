@@ -1,4 +1,4 @@
-### Un forastero!! avisad a los demás, te cogí, te cógí. <img align="center" alt="GIF" src="https://i.imgur.com/SG1BLWQ.gif" width="210" height="80" />
+### Un forastero!! avisad a los demás, te cogí, te cógí.
 
 # Olá, me chamo Rogério 👋
 
