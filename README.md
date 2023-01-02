@@ -1,7 +1,5 @@
 ### Un forastero!! avisad a los demás, te cogí, te cógí. <img align="center" alt="GIF" src="https://i.imgur.com/SG1BLWQ.gif" width="210" height="80" />
 
-### REDME EM CONSTRUÇÃO 🚧👷‍♂️
-
 # Olá, me chamo Rogério 👋
 
 Sou apaixonado por T.I desde que quebrei uma senha do Windows que me impedia de jogar resident evil 4 [#HackerMan!!]() 🤣
@@ -34,7 +32,6 @@ Desde então venho aprendendo todos os dias o que a tecnologia pode oferecer, so
  
  <br />
 <details>
-  <summary>:zap: Veja o que mais utilizo nos meus repositórios </summary>
   <img align="left" alt="Rogerio's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogerin" />
   
   <br />
